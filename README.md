@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @appyspaces
-- 👀 I’m like to play with Web Technologies
-- 💞️ using Javascript / Typescript / Js Frameworks / Ruby / Ruby on Rails
-- 🌱 to build Web Applications
+👋 Hi, I’m @appyspaces
+
+👀 I’m like to play with Web Technologies
+
+💞️ using Javascript / Typescript / Js Frameworks / Ruby / Ruby on Rails
+
+🌱 to build Web Applications
 
 <!---
 - 👋 Hi, I’m @appyspaces
